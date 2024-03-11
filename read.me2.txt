@@ -1,0 +1,17 @@
+Mempelajari Git memiliki beberapa manfaat yang penting bagi programmer dan developer, baik dalam pengembangan software maupun proyek website. Berikut ini beberapa manfaat utama dari mempelajari Git:
+System Pencabangan: Git memiliki fitur branching, yang memungkinkan untuk membuat cabang baru dari kode asli. Ini memungkinkan untuk mengubah kode di cabang tersebut tanpa mengubah versi asli, sehingga kamu tidak perlu khawatir tentang risiko kode yang berubah-ubah
+1
+.
+Sistem Pull Request: Dalam proyek software, developer biasanya bekerja bersamaan. Git memiliki fitur pull request, yang memungkinkan developer untuk membuat cabang sendiri dan mengirim permintaan untuk menggabungkan kode yang sudah dikerjakan. Ini memungkinkan untuk mengelola proyek yang dikerjakan oleh beberapa orang
+1
+.
+Version Control System: Git adalah sistem kontrol versi yang berfungsi untuk mencatat perubahan seluruh file atau repository dari suatu proyek, baik besar maupun kecil. Dengan Git, kamu dapat melakukan commit untuk menyimpan riwayat perubahan data pada file, dan melakukan checkout untuk kembali ke source code sebelumnya
+2
+.
+Offline dan Online: Git dapat disimpan dengan offline atau online, sehingga kamu dapat bekerja dengan koneksi internet atau tidak. Software Git juga tersedia secara gratis melalui web unduhan resminya
+2
+.
+Open-source dan Komunitas: Git adalah sistem kontrol versi yang dikembangkan oleh pengembang sistem kernel dari sistem operasi Linux, dan saat ini digunakan oleh ratusan proyek software. Dengan Git, kamu dapat menggunakan pelayanan yang sangat bagus, bantuan yang luas, dan dokumentasi yang tersedia dalam berbagai format
+4
+.
+Flexibilitas dan Keamanan: Git memiliki fitur lain yang tidak kalah penting, seperti data model yang membantu untuk memastikan integritas cryptographic pada repository, dan staging area atau index yang memungkinkan untuk menggunakan staging area saat melakukan format commit dan untuk review sebelum akhirnya diterapkan
